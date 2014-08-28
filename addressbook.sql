@@ -1,0 +1,1 @@
+CREATE TABLE addressbook.address (id INT(4) NOT NULL AUTO_INCREMENT PRIMARY KEY, name VARCHAR(30), phone VARCHAR(30), email VARCHAR(30));
